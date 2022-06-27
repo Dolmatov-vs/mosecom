@@ -1,8 +1,6 @@
 package ru.lanit.at.utils.selenide.extensions;
 
 import com.codeborne.selenide.Selenide;
-import com.codeborne.selenide.SelenideElement;
-import com.codeborne.selenide.WebDriverRunner;
 import com.codeborne.selenide.commands.Commands;
 import com.codeborne.selenide.impl.WebElementSource;
 import org.openqa.selenium.OutputType;

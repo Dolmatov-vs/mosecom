@@ -6,6 +6,7 @@ import java.util.Arrays;
  * Адреса стендов
  */
 public enum Stand {
+    MOSECOM("www.mosecom.mos.ru"),
     GOOGLE("www.google.ru"),
     YANDEX("ya.ru");
 

@@ -20,7 +20,7 @@ public interface WebConfigurations extends Config {
     String webDriverVersion();
 
     @Key("webdriver.browser.name")
-    @DefaultValue("chrome")
+    @DefaultValue("")
     String webDriverBrowserName();
 
     @Key("webdriver.timeoutSeconds")
